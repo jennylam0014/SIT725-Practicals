@@ -1,6 +1,6 @@
 function changeText() {
     var textsArray= ["New Zealand","Malaysia", "Vietnam", "Thailand", "Indonesia"]
-    var colourArray = ["Beige", 'DarkOliveGreen','lavender','peru', 'burlywood']
+    var colourArray = ["Sienna", 'DarkOliveGreen','PaleVioletRed','DarkSalmon', 'CornflowerBlue']
     var number = getRandomNumberBetween(0,textsArray.length-1)
     console.log("Index: ", number)
     document.getElementById("heading").innerHTML= textsArray[number];
