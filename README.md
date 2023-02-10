@@ -1,6 +1,7 @@
 # Applied Software Engineering (SIT725) Practicals
 @ Deakin Trimester 3 2022
 
+<b> Building a webapp, focusing on the following topics: </b>
 Prac 1- Basic Programming
 
 Prac 2- Rest API and Express
